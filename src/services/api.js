@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000'; // Base URL with /api
+const API_URL = 'https://todolist-backend-a1c7.onrender.com'; // Base URL with /api
 
 export const api = {
   // Create a new task
